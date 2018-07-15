@@ -1,0 +1,16 @@
+<!-- --------------------------------------------------------------------------
+    Título:    Web
+
+    Fecha:     01/07/2016
+    Autor:    Alex Solé
+--------------------------------------------------------------------------- -->
+
+
+ <appSettings>
+
+        <add key="TwitterAccessToken" value="1227205110-pCG2nKL846ZeVF6vSd1NgXkLi8DotY674tIg6gY"/>
+        <add key="TwitterAccessSecret" value= "HLz9R9kzhXe0DxvHvVekCNlouchvUj1UTmwnHvS8FM"/>
+        <add key="TwitterConsumerKey" value= "C1WANBZTnR6p8Ja8mpGQ"/>
+        <add key="TwitterConsumerSecret" value= "XXbZc5iCeTeJ15E2a62yJ0GsxQhw03KWYlbKJBZK8M"/>
+
+</appSetting

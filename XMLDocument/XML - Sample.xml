@@ -1,0 +1,39 @@
+<!-- ---------------------------------------------------
+    Título:    XML - Sample
+
+    Fecha:     01/07/2016
+    Autor:    Alex Solé
+--------------------------------------------------------
+
+<?xml version="1.0" encoding="utf-8"?>
+<Clientes>
+    <Cliente>
+        <Nombre>Alberto</Nombre>
+        <Apellido>Gonzalez</Apellido>
+        <Edad>20</Edad>
+        <Inventario>
+            <Item>Walkman</Item>
+            <Item>Auriculares</Item>
+            <Item>Libro</Item>
+        </Inventario>
+    </Cliente>
+    <Cliente>
+        <Nombre>Romina</Nombre>
+        <Apellido>Fernandez</Apellido>
+        <Edad>28</Edad>
+        <Inventario>
+            <Item>Zapatillas</Item>
+            <Item>Vincha</Item>
+            <Item>Anteojos</Item>
+        </Inventario>
+    </Cliente>
+    <Cliente>
+        <Nombre>Paul</Nombre>
+        <Apellido>Rodriguez</Apellido>
+        <Edad>29</Edad>
+        <Inventario>
+            <Item>Discman</Item>
+            <Item>Auriculares</Item>
+        </Inventario>
+    </Cliente>
+</Clientes>
